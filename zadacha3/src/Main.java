@@ -1,4 +1,4 @@
-
+//Напишите программу для управления разными типами музыкальных устройств (плееры, колонки, наушники) с использованием паттерна "мост"
 public class Main {
     public static void main(String[] args) {
         Device musicPlayer = new MusicPlayer();
